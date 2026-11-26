@@ -7,11 +7,9 @@
 
 | Nome do Integrante | Função na Sprint 4 (Liderança / Pesquisador / Executor) | GitHub |
 |---|---|---|
-| [Nome do Aluno 1 - Líder] | Líder & Arquiteto Principal | @github_user |
-| [Nome do Aluno 2] | Pesquisador & Modelagem DDD | @github_user |
-| [Nome do Aluno 3] | Pesquisador & Engenheiro de Resiliência & Integração | @github_user |
-| [Nome do Aluno 4] | Executor & Especialista em IA-Native & Autonomia | @github_user |
-| [Nome do Aluno 5] | Executor & QA & Desenvolvedor de Fitness Functions | @github_user |
+| Caio Marani | Líder | [@feudal911](https://github.com/feudal911) |
+| Willian Rutyna | Integrante | [@willruty](https://github.com/willruty) |
+| Kaua Peres | Integrante | [@pereszx](https://github.com/pereszx) |
 
 ---
 
